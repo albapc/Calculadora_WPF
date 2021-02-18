@@ -1,0 +1,15 @@
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\bin\Debug\Calculadora_WPF.exe.config
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\bin\Debug\Calculadora_WPF.exe
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\bin\Debug\Calculadora_WPF.pdb
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF.csprojAssemblyReference.cache
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\App.g.cs
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF_MarkupCompile.cache
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF_MarkupCompile.lref
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\MainWindow.baml
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF.g.resources
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF.Properties.Resources.resources
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF.csproj.GenerateResource.cache
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF.exe
+C:\Users\alba.perezcesar\source\repos\Calculadora_WPF\Calculadora_WPF\obj\Debug\Calculadora_WPF.pdb
