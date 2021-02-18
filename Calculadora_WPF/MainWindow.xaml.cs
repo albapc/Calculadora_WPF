@@ -263,7 +263,7 @@ namespace Calculadora_WPF
         // Cerrar la aplicación
         private void Btn_salir_Click(object sender, RoutedEventArgs e)
         {
-
+            Close();
         }
     }
 }
