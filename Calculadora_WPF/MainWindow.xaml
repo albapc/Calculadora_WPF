@@ -25,8 +25,8 @@
             <Button x:Name="btn_coma" Content="." HorizontalAlignment="Left" Height="67" VerticalAlignment="Top" Width="83" FontSize="36" FontFamily="Century Gothic" Margin="78,269,0,0" Click="Btn_coma_Click"/>
             <Button x:Name="btn_igual" Content="=" HorizontalAlignment="Left" Height="67" VerticalAlignment="Top" Width="83" FontSize="36" FontFamily="Century Gothic" Margin="161,269,0,0" Click="Btn_igual_Click"/>
             <Button x:Name="btn_division" Content="/" HorizontalAlignment="Left" Width="83" FontSize="36" FontFamily="Century Gothic" Margin="237,269,0,0" Click="Btn_division_Click"/>
-            <Button x:Name="btn_borrar" Content="CE" HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="78" FontFamily="Century Gothic" FontSize="20" Background="#FF4A58ED" Foreground="White"/>
-            <Button x:Name="btn_salir" Content="C" HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="78" FontFamily="Century Gothic" FontSize="20" Background="#FFD32929" Foreground="White" Margin="242,0,0,0"/>
+            <Button x:Name="btn_borrar" Content="CE" HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="78" FontFamily="Century Gothic" FontSize="20" Background="#FF4A58ED" Foreground="White" Click="Btn_borrar_Click"/>
+            <Button x:Name="btn_salir" Content="C" HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="78" FontFamily="Century Gothic" FontSize="20" Background="#FFD32929" Foreground="White" Margin="242,0,0,0" Click="Btn_salir_Click"/>
         </Grid>
 
     </Grid>
